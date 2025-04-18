@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/authflow.git
-cd authflow
+cd Auth_Flow
 ```
 
 ### 2. Install Dependencies
@@ -63,3 +63,5 @@ npm start
 - 🔁 Token-based session management
 - 📦 Clean, modular architecture for controllers and services
 - 🌍 CORS configured for cross-origin requests
+  
+| Use this API as a base for personal finance tools, dashboards, or full-stack apps. Contributions are welcome!
